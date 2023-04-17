@@ -10,10 +10,10 @@ Private companies with a valuation over $1 billion as of March 2022, including e
 
 	 Looking at the type of data The first place I went was to view the data dictionary. This is as it helps gives an overview and context for the subject without giving too much away about the content. From an initial review, I divided the types of data up into several categories which could help me form a list of questions
 	 
-	 • Dates – These can help form time and trend related questions
-	• Money – These can form queries on average values, return on investment and growth
-	• Geography – These can help make comparisons at several hierarchical levels
-	• Companies – These can assist in analysis at both high and detailed levels from both and company and investor viewpoint
+	- Dates – These can help form time and trend related questions
+	- Money – These can form queries on average values, return on investment and growth
+	- Geography – These can help make comparisons at several hierarchical levels
+	- Companies – These can assist in analysis at both high and detailed levels from both and company and investor viewpoint
 	
 	**Step 2**
 	
