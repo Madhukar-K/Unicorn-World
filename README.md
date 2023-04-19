@@ -32,7 +32,7 @@ Private companies with a valuation over $1 billion as of March 2022, including e
 	 The approach i took, was to split the questions into Four streams. Market,Growth , Return of Investment and Global 
    
  # Result
-   
+   [View in PowerBI](https://www.novypro.com/project/unicronworld)
    ![Unicorn world_img](https://user-images.githubusercontent.com/85514479/232451261-7c032ae1-d761-446d-9261-19da0c535a9d.jpg)
 
 
